@@ -1,0 +1,7 @@
+/* Prepended at sblim package build-time.  Don't include this file directly,
+ * use "gather-config.h" instead. */
+
+#ifndef gather_config_multilib_redirection_h
+#error "Don't include this file directly, use <gather/gather-config.h> instead!"
+#endif
+
